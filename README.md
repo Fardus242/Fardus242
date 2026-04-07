@@ -16,8 +16,9 @@
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Fardus242)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fardus242)
 
 ## 📫 Contact Me
-- LinkedIn: 
-- Email: ...
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/f-jama)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fardusjama268@gmail.com)
+
