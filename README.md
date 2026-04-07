@@ -1,6 +1,8 @@
 # Hi I'm Fardus👋
 
-### A DevOps Engineer who specialises in Terraform, Docker, Kubernetes, and cloud platforms. 
+A DevOps Engineer who specialises in Terraform, Docker, Kubernetes, and cloud platforms. 
+
+![Profile Views](https://komarev.com/ghpvc/?username=Fardus242&label=Profile%20views&color=0e75b6&style=flat)
 
 ## 🛠️ Tech Stack
  ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
@@ -15,8 +17,9 @@
 ![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
-## 📊 GitHub Stats
-![Profile Views](https://komarev.com/ghpvc/?username=Fardus242&label=Profile%20views&color=0e75b6&style=flat)
+## 💼 Featured Projects
+- Threat-composer	End to End deployment of threat composer on AWS ECS Fargate
+- EKS Project
 
 ## 📫 Contact Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/f-jama)
