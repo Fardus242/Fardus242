@@ -1,4 +1,4 @@
-# Hi I'm Fardus👋
+# Hi, I'm Fardus👋
 
 A DevOps Engineer who specialises in Terraform, Docker, Kubernetes, and cloud platforms. 
 
@@ -18,8 +18,8 @@ A DevOps Engineer who specialises in Terraform, Docker, Kubernetes, and cloud pl
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 ## 💼 Featured Projects
-- Threat-composer	End to End deployment of threat composer on AWS ECS Fargate
-- EKS Project
+- Threat-composer	End to End deployment of threat composer on AWS ECS Fargate 
+- EKS Project 
 
 ## 📫 Contact Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/f-jama)
