@@ -18,8 +18,11 @@ A DevOps Engineer who specialises in Terraform, Docker, Kubernetes, and cloud pl
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 ## 💼 Featured Projects
-- Threat-composer	End to End deployment of threat composer on AWS ECS Fargate 
-- EKS Project 
+### Threat Composer App
+A fully containerised threat modeling application deployed on Amazon Web Services ECS Fargate, designed for production-ready workloads with a secure and scalable architecture. The system includes automated CI/CD pipelines, load balancing, and auto-scaling to ensure high availability and performance.
+
+### Production-Grade EKS 
+An enterprise Kubernetes deployment leveraging a GitOps workflow to enable fully automated and version-controlled application delivery. Built on Amazon Web Services EKS and managed through ArgoCD, the system ensures consistent, secure, and scalable deployments. It integrates observability, logging, and policy enforcement to support reliable production workloads.
 
 ## 📫 Contact Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/f-jama)
