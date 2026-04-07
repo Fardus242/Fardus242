@@ -1,6 +1,6 @@
 # Hi I'm Fardus👋
 
-## A DevOps Engineer who specialises in Terraform, Docker, Kubernetes, and cloud platforms. 
+### A DevOps Engineer who specialises in Terraform, Docker, Kubernetes, and cloud platforms. 
 
 ## 🛠️ Tech Stack
  ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
@@ -16,7 +16,7 @@
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fardus242)
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat)
 
 ## 📫 Contact Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/f-jama)
